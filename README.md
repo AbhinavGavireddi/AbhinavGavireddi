@@ -1,9 +1,8 @@
-Hello everyone! 👋 My name is Abhinav Gavireddi
+Hello everyone! 👋 I am Abhinav
 =====================================
-
-Aspiring Data Scientist | Java Dev
+I'm an Aspiring _Data Scientist_ and a _Java Dev_
 ------------------------------------
-
+<br></br>
 **My Achievements**
 
 > Published a [Technical paper](https://doi.org/10.1115/SMASIS2021-67487) at ASME’s SMASIS 2021 conference.
@@ -14,7 +13,7 @@ Aspiring Data Scientist | Java Dev
  
 > Presented a technical paper in 2020 Techfest KSHITIJ of IIT Kharagpur.
 
-
+<br></br>
 what I do mainly
 
 ⚡ Analyzing Data
