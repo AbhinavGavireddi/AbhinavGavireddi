@@ -4,20 +4,19 @@ Hello everyone! 👋 My name is Abhinav Gavireddi
 Aspiring Data Scientist | Java Developer
 ------------------------------------
 
-⚡ Machine Learning Algorithms 
+⚡ Analyzing Data
 
 ⚡ Mathematical modelling of Data
 
+⚡ Machine Learning Algorithms 
 
-### Tools | Frameworks 
+I use NumPy, Pandas, SQL to analyze data. 
 
-Data Preprocessing: NumPy, Pandas. 
+also use Matplotlib and Seaborn for visualizing data.
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn. 
+Finally I use Scikit-Learn to implement Machine and Deep Learning Algorithms. 
 
-Data Visualization: Matplotlib, Seaborn. 
-
-Integrated Development Environment: Jupyter-Notebook, Spyder, PyCharm.
+I love to use Jupyter-Notebook, Spyder, PyCharm IDE's to do everything!!.
 
 * 🌍  Based in India
 * ✉️  can contact me at [abhinavgavireddi@gmail.com](mailto:abhinavgavireddi@gmail.com)
@@ -25,4 +24,4 @@ Integrated Development Environment: Jupyter-Notebook, Spyder, PyCharm.
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/AbhinavGavireddi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /></a> <a href="https://mathformachinelearning.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="28" height="28" /></a> <a href="https://www.linkedin.com/in/gavireddi-abhinava-bharat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+<p align="left"> <a href="https://github.com/AbhinavGavireddi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /></a><a href="https://www.linkedin.com/in/gavireddi-abhinava-bharat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
