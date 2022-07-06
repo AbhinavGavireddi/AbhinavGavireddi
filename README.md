@@ -10,13 +10,13 @@ Aspiring Data Scientist | Java Developer
 
 ⚡ Machine Learning Algorithms 
 
-I use NumPy, Pandas, SQL to analyze data. 
+I use _**NumPy**_, _**Pandas**_, _**SQL**_ to analyze data. 
 
-also use Matplotlib and Seaborn for visualizing data.
+_**Matplotlib**_ and _**Seaborn**_ for visualizing data.
 
-Finally I use Scikit-Learn to implement Machine and Deep Learning Algorithms. 
+and _**Scikit-Learn**_ to implement Machine Learning Algorithms. 
 
-I love to use Jupyter-Notebook, Spyder, PyCharm IDE's to do everything!!.
+I :blue_heart: to use Jupyter-Notebook, Spyder, PyCharm IDE's to do everything!!.
 
 * 🌍  Based in India
 * ✉️  can contact me at [abhinavgavireddi@gmail.com](mailto:abhinavgavireddi@gmail.com)
