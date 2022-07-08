@@ -1,4 +1,4 @@
-Hello everyone! 👋 I am Abhinav
+Hi, I am Abhinav 👋 
 =====================================
 I'm an Aspiring _Data Scientist_ and a _Java Dev_
 ------------------------------------
