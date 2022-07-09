@@ -28,7 +28,7 @@ _**Matplotlib**_ and _**Seaborn**_ for visualizing data.
 
 and _**Scikit-Learn**_ to implement Machine Learning Algorithms. 
 
-I :blue_heart: to use Jupyter-Notebook, Spyder, PyCharm IDE's to do everything!!.
+I :blue_heart: to use Jupyter-Notebook, Spyder, PyCharm IDE's for everything!!.
 
 * 🌍  Based in India
 * ✉️  can contact me at [abhinavgavireddi@gmail.com](mailto:abhinavgavireddi@gmail.com)
