@@ -37,3 +37,8 @@ I :blue_heart: to use Jupyter-Notebook, Spyder, PyCharm IDE's to do everything!!
 ### Socials
 
 <p align="left"> <a href="https://github.com/AbhinavGavireddi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /></a><a href="https://www.linkedin.com/in/gavireddi-abhinava-bharat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+
+Stats
+---------------------------------------
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavGavireddi&theme=highcontrast)](https://git.io/streak-stats)
