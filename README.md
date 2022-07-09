@@ -1,6 +1,6 @@
-Hi, I am Abhinav 👋 
+Hi👋 I am Abhinav  
 =====================================
-I'm an Aspiring _Data Scientist_ and a _Java Dev_
+I'm a _Java Dev_ and an Aspiring _Data Scientist_
 ------------------------------------
 <br></br>
 **My Achievements**
