@@ -1,6 +1,6 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Abhinav  
 =====================================
-I'm a _Java Dev_ and an Aspiring _Data Scientist_
+I'm a _Data Analyst_ and an Aspiring _Data Scientist_
 ------------------------------------
 <br></br>
 **My Achievements**
