@@ -1,6 +1,6 @@
 Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Abhinav  
 =====================================
-I'm a _Data Analyst_ and an Aspiring _Data Scientist_
+I'm a _Data Scientist_ at _AB InBev_
 ------------------------------------
 <br></br>
 what I do mainly
@@ -17,7 +17,7 @@ _**Matplotlib**_ and _**Seaborn**_ for visualizing data.
 
 and _**Scikit-Learn**_,_**Imbalanced-Learn**_,_**Statsmodels**_ to implement Machine Learning Algorithms. 
 
- :blue_heart: to use Jupyter-Notebook, Spyder, PyCharm IDE's for everything!!.
+ :blue_heart: to use Vscode for everything!!.
 
 * 🌍  Based in India
 * ✉️  can contact me at [abhinavgavireddi@gmail.com](mailto:abhinavgavireddi@gmail.com)
